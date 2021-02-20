@@ -3,8 +3,9 @@
 class Biodata {
 
 
+
 	public $name = "Diar Ardi";
-	public $address = "Jl Chentiong 1 RT 04/09 Depok West Java";
+	public $address = "Jl Chentiong 1 RT 04/09 Depok Jawa Barat";
 	public $hoobies = ["football", "movie", "programming"];
 	public $is_married = FALSE;
 	public $school = "Universitas Pamulang";
