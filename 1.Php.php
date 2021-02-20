@@ -2,7 +2,7 @@
 
 class Biodata {
 
-	public $name = "Diar";
+	public $name = "Diar Ardiansyah";
 	public $address = "Jl Chentiong 1 RT 04/09 Depok West Java";
 	public $hoobies = ["gaming", "football", "movie", "programming"];
 	public $is_married = FALSE;
