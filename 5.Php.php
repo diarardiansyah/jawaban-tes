@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h2>Nilai Tertinggi Dan Terendah</h2>
+<h2>Mencari Nilai Tertinggi Dan Terendah</h2>
 
 <?php
 
